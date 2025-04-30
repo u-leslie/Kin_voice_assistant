@@ -30,7 +30,7 @@ tts_tokenizer = VitsTokenizer.from_pretrained("facebook/mms-tts-kin")
 # Define question-answer pairs
 qa_pairs = {
     "amakuru": "Ni meza, urakoze!",
-    "witwa nde": "Nitwa Umufasha w'Ijwi.",
+    "witwa nde": "Nitwa Umuhire",
     "ubuzima bumeze gute": "Bumeze neza!",
     "ikinyarwanda ni iki": "Ni ururimi kavukire rw'Abanyarwanda.",
     "amakuru yawe": "Ni meza, ndashimira!"
