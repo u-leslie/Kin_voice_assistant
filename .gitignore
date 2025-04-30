@@ -2,3 +2,6 @@ env/
 __pycache__/
 *.pyc
 *.env
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
